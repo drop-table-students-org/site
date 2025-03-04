@@ -2,7 +2,7 @@
 
 This repository is part of the Rust Fundamentals Coursera course and Systems Engineering specialization by Duke University
 
-# Rust Fundamentals
+#       Rust Fundamentals
 
 _Rust Bootcamp week 2: Rust Fundamentals_
 
