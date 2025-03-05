@@ -1,7 +1,7 @@
 # there will be a workflow
 
 on:
-  push:
+  workflow_dispatch:
 
 jobs:
   test:
